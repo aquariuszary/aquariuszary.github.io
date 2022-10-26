@@ -6,11 +6,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Yoo byeong seon
+title: Engineer's path
+email: ybs201@naver.com (optional)
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 010-251503409 (optional)
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -19,17 +19,17 @@ website: Your website (eg. https://google.com)(optional)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: yoobyeongseon
+github_username:  yoobyeongseon
 stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
+dribbble_username: yoobyeongseon
+facebook_username: yoobyeongseon
+flickr_username: yoobyeongseon
+instagram_username: yoobyeongseon
+linkedin_username: yoobyeongseon
+xing_username: yoobyeongseon
+pinterest_username: yoobyeongseon
+youtube_username: yoobyeongseon
 orcid_username: 0000-0000-0000-0000
 googlescholar_username: D847cGsAAAAJ
 
@@ -84,7 +84,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: righta%+`60
         title: Company name
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
